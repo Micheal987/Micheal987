@@ -1,24 +1,30 @@
-# 👋 Hi, I'm [Michael]
+# 👋 Hi, I'm [Michael] | Full-Stack Engineer
 
-一位熱衷於 **現代系統編程 (Systems Programming)** 與 **高效能 Web 架構** 的工程師。  
-致力於在 **記憶體安全 (Rust)**、**開發效率 (Go/Kotlin)** 與 **極致掌控 (Zig/C)** 之間取得完美的平衡。
-
----
-
-### 🛠 技術棧 (Tech Stack)
-
-#### ⚙️ Low-Level & Systems (The Core)
-- **Zig / C**: 追求零抽象、直接掌控內存與 Comptime 的編譯期魔法。
-- **Rust**: 構建安全、可靠且高效的高性能異步服務與工具。
-- **Go**: 雲原生微服務、併發模型與快速迭代的工程實踐。
-
-#### ☕ JVM & Backend (The Enterprise)
-- **Java / Kotlin**: 穩健的企業級架構、JVM 優化與現代化 Android/Backend 開發。
-
-#### 🎨 Frontend (The Portal)
-- **Vue.js (2/3)**: 使用 Vite, Pinia, TS 打造流暢且響應式的用戶界面。
-- **WebAssembly**: 將 Zig/Rust 邏輯編譯至 WASM，挑戰瀏覽器性能極限。
+專注於 **高性能系統編程** 與 **現代化網頁架構**。  
+我喜歡在 **底層掌控 (Zig/C/Rust)** 與 **高層抽象 (Vue/Java/Go)** 之間穿梭，構建端到端的完整解決方案。
 
 ---
 
+### 🖥️ 前端開發 (Frontend Development)
+*專注於流暢的交互體驗與高效的構建流程*
 
+- **框架與核心**: 
+  ![Vue.js](https://img.shields.io) **Vue 2/3** (Composition API), Vite, Pinia, Vue Router
+- **樣式與 UI**: Tailwind CSS, Element Plus, Ant Design
+- **進階探索**: 
+  ![WebAssembly](https://img.shields.io %23654FF0.svg?style=flat-square&logo=webassembly&logoColor=white) **WebAssembly** (將 Rust/Zig 邏輯引入瀏覽器)
+
+---
+
+### ⚙️ 後端與系統開發 (Systems & Backend)
+*從高併發微服務到極致性能的底層實作*
+
+- **系統編程 (Low-Level)**:
+  - ![Zig](https://img.shields.io) **Zig**: 探索 Comptime 與手動內存管理的藝術
+  - ![Rust](https://img.shields.io) **Rust**: 安全的併發與高性能系統工具
+  - ![C](https://img.shields.io) **C**: 深入理解硬體與作業系統底層
+- **應用服務 (Application)**:
+  - ![Go](https://img.shields.io) **Go**: 雲原生微服務、高併發後端架構
+  - ![Java](https://img.shields.io) **Java / Kotlin**: 企業級 Spring 生態系統與 JVM 調優
+
+---
