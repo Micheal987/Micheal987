@@ -30,10 +30,3 @@ Full-Stack Engineer | Systems & High-Performance Computing
 
 ---
 
-### 📂 目前專注方向 (Current Interests)
-*   使用 **Zig/Rust** 提升計算密集型任務的效能。
-*   研究 **WebAssembly** 在瀏覽器中執行複雜系統邏輯的潛力。
-*   優化 **Go/Java** 分散式系統的穩定性與擴展性。
-
----
-
