@@ -12,7 +12,6 @@ Full-Stack Engineer | Systems & High-Performance Computing
 *   **狀態與路由**: Pinia, Vuex, Vue Router
 *   **工具鏈**: Vite, Webpack, TypeScript
 *   **UI 方案**: Tailwind CSS, Element Plus, Ant Design Vue
-*   **跨端探索**: WebAssembly (WASM) 整合應用
 
 ---
 
