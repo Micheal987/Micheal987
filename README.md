@@ -3,6 +3,10 @@
 Full-Stack Engineer | Systems & High-Performance Computing
 專注於構建從硬體底層到雲端前端的完整技術鏈。
 
+> ### 💡 Engineering Creed
+> **"Execution takes precedence over perfection; refinement comes after realization."**
+> _— Focus on delivering function first, then engineering excellence._
+
 ---
 
 ### 🖥️ 前端開發 (Frontend Development)
@@ -26,6 +30,3 @@ Full-Stack Engineer | Systems & High-Performance Computing
 #### 🔹 應用服務 (Application Services)
 *   **Go**: 雲原生微服務開發、高併發後端架構設計。
 *   **Java / Kotlin**: 企業級 Spring 生態系統、JVM 性能調優。
-
----
-
